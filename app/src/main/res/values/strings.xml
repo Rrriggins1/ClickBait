@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ClickBait</string>
+    <string name="desc_1">10 Unbelievable Travel Destinations You Never Knew Existed! You Won\'t Believe #10!</string>
+    <string name="desc_2">15 Adorable Pets Reacting to Their Reflections - You Won\'t Believe #7!</string>
+    <string name="desc_3">Quiz: Which Fictional Fantasy World Should You Actually Live In?</string>
+    <string name="desc_4">The Ultimate DIY Hacks to Transform Your Small Space into a Palace!</string>
+    <string name="desc_5">Can You Guess These 90s Cartoon Theme Songs? Take the Nostalgia Quiz!</string>
+    <string name="desc_6">Discover Your Perfect Pizza Topping Based on Your Zodiac Sign! Virgo\'s Will Lose Their
+    Minds!</string>
+    <string name="desc_7">Jaw-Dropping Celebrity Lookalikes That Will Make You Do a Double Take!</string>
+    <string name="desc_8">The Great Junk Food Showdown: Which Snack Will Win the Taste Test?</string>
+    <string name="desc_9">Find Out Your Celebrity Soulmate with This Totally Accurate Quiz!</string>
+    <string name="desc_10">Incredible Life Hacks That Will Change Your Daily Routine Forever!</string>
+    <string name="source_1">BuzzFeed</string>
+    <string name="source_2">InfoFrenzyHub</string>
+    <string name="source_3">ViralInsightGlobe</string>
+    <string name="source_4">CuriositySphere</string>
+    <string name="source_5">TrendUnveilArena</string>
+    <string name="source_6">HuffPost</string>
+    <string name="time_1">22m ago</string>
+    <string name="time_2">1h ago</string>
+    <string name="time_3">16h ago</string>
+    <string name="time_4">36m ago</string>
+    <string name="time_5">2d ago</string>
+    <string name="time_6">42m ago</string>
+    <string name="time_7">12m ago</string>
+    <string name="time_8">2h ago</string>
+    <string name="time_9">4h ago</string>
+    <string name="time_10">51m ago</string>
+</resources>
